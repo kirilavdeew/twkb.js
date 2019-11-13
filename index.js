@@ -1,1 +1,1 @@
-module.exports = require('./dist/twkb.min.js')
+module.exports = require('./dist/twkb.min.js');
